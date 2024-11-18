@@ -1,10 +1,10 @@
 # Hue: The Decentralized Music Streamer 
 # Repository Links:
-frontend: `https://github.com/CousCous08/hue-frontend`
+[frontend](https://github.com/CousCous08/hue-frontend) 
 
-backend: `https://github.com/CousCous08/hue-backend`
+[backend](https://github.com/CousCous08/hue-backend) 
 
-smart contract: `https://github.com/CousCous08/hue-smart-contract`
+[smart contract](https://github.com/CousCous08/hue-smart-contract)
 
 # Motivation:
 	
