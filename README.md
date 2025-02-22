@@ -6,6 +6,8 @@
 
 [smart contract](https://github.com/CousCous08/hue-smart-contract)
 
+Take a look at hue.pdf for motivation, design overview, and results!
+
 # Motivation:
 	
 What is the point of a music distributor? To think seriously, in todays’ age of digital distribution, the need for any middle-man distributor has been long erased. Back when CDs and vinyls were the primary means of distributing music, music distributors were valuable for providing artists’ the benefits of scale. Yet, for unexplainable reasons beyond profit and industry tradition, they still exist and thrive to this day. If you aim to become a publishing artist and access streaming platforms with the majority of market share such as Spotify or Apple Music, you still need to go through a distributor. What do they do? They standardize the data, manage publication submission, and ensure royalty payment. The first two are easily manageable by any competent person or algorithm, and already have alternative solutions that do not require publishers (SoundCloud, Bandcamp, etc.). However, the lattermost is the concern of this project, as transparency of streaming numbers and the associated royalty payments is very poor within the industry. My proposed solution: a music streamer with a blockchain-based backend, allowing for full transparency on streaming counts and royalty payments. This, and an otherwise centralized application for a similar user experience to current market standards combine to make up Hue.
